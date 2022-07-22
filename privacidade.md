@@ -1,4 +1,4 @@
-Política Privacidade {#política-privacidade style="box-sizing: border-box; margin: 0px; line-height: 1.2; font-size: 20px; letter-spacing: -0.05em; color: #576d96; padding-bottom: 20px; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+Política Privacidade 
 --------------------
 
 A sua privacidade é importante para nós. É política do Bandeco Unicamp
@@ -36,10 +36,10 @@ Privacidad](https://avisodeprivacidad.info/) e informações pessoais. Se
 você tiver alguma dúvida sobre como lidamos com dados do usuário e
 informações pessoais, entre em contacto connosco.
 
-Política de Cookies Bandeco Unicamp {#política-de-cookies-bandeco-unicamp style="box-sizing: border-box; margin: 0px; line-height: 1.2; font-size: 20px; letter-spacing: -0.05em; color: #576d96; padding-bottom: 20px; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+Política de Cookies Bandeco Unicamp 
 -----------------------------------
 
-### O que são cookies? {#o-que-são-cookies style="box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.2; font-size: 16px; letter-spacing: -0.05em; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+### O que são cookies?
 
 Como é prática comum em quase todos os sites profissionais, este site
 usa cookies, que são pequenos arquivos baixados no seu computador, para
@@ -49,7 +49,7 @@ cookies. Também compartilharemos como você pode impedir que esses
 cookies sejam armazenados, no entanto, isso pode fazer o downgrade ou
 \'quebrar\' certos elementos da funcionalidade do site.
 
-### Como usamos os cookies? {#como-usamos-os-cookies style="box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.2; font-size: 16px; letter-spacing: -0.05em; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+### Como usamos os cookies? 
 
 Utilizamos cookies por vários motivos, detalhados abaixo. Infelizmente,
 na maioria dos casos, não existem opções padrão do setor para desativar
@@ -58,7 +58,7 @@ que eles adicionam a este site. É recomendável que você deixe todos os
 cookies se não tiver certeza se precisa ou não deles, caso sejam usados
 ​​para fornecer um serviço que você usa.
 
-### Desativar cookies {#desativar-cookies style="box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.2; font-size: 16px; letter-spacing: -0.05em; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+### Desativar cookies
 
 Você pode impedir a configuração de cookies ajustando as configurações
 do seu navegador (consulte a Ajuda do navegador para saber como fazer
@@ -68,55 +68,55 @@ desativação de cookies geralmente resultará na desativação de
 determinadas funcionalidades e recursos deste site. Portanto, é
 recomendável que você não desative os cookies.
 
-### Cookies que definimos {#cookies-que-definimos style="box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.2; font-size: 16px; letter-spacing: -0.05em; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+### Cookies que definimos 
 
--   Cookies relacionados à conta\
-    \
+-   Cookies relacionados à conta
+    
     Se você criar uma conta connosco, usaremos cookies para o
     gerenciamento do processo de inscrição e administração geral. Esses
     cookies geralmente serão excluídos quando você sair do sistema,
     porém, em alguns casos, eles poderão permanecer posteriormente para
-    lembrar as preferências do seu site ao sair.\
-    \
--   Cookies relacionados ao login\
-    \
+    lembrar as preferências do seu site ao sair.
+    
+-   Cookies relacionados ao login
+    
     Utilizamos cookies quando você está logado, para que possamos
     lembrar dessa ação. Isso evita que você precise fazer login sempre
     que visitar uma nova página. Esses cookies são normalmente removidos
     ou limpos quando você efetua logout para garantir que você possa
-    acessar apenas a recursos e áreas restritas ao efetuar login.\
-    \
--   Cookies relacionados a boletins por e-mail\
-    \
+    acessar apenas a recursos e áreas restritas ao efetuar login.
+    
+-   Cookies relacionados a boletins por e-mail
+    
     Este site oferece serviços de assinatura de boletim informativo ou
     e-mail e os cookies podem ser usados ​​para lembrar se você já está
     registrado e se deve mostrar determinadas notificações válidas
-    apenas para usuários inscritos / não inscritos.\
-    \
--   Pedidos processando cookies relacionados\
-    \
+    apenas para usuários inscritos / não inscritos.
+    
+-   Pedidos processando cookies relacionados
+    
     Este site oferece facilidades de comércio eletrônico ou pagamento e
     alguns cookies são essenciais para garantir que seu pedido seja
     lembrado entre as páginas, para que possamos processá-lo
-    adequadamente.\
-    \
--   Cookies relacionados a pesquisas\
-    \
+    adequadamente.
+    
+-   Cookies relacionados a pesquisas
+    
     Periodicamente, oferecemos pesquisas e questionários para fornecer
     informações interessantes, ferramentas úteis ou para entender nossa
     base de usuários com mais precisão. Essas pesquisas podem usar
     cookies para lembrar quem já participou numa pesquisa ou para
-    fornecer resultados precisos após a alteração das páginas.\
-    \
--   Cookies relacionados a formulários\
-    \
+    fornecer resultados precisos após a alteração das páginas.
+    
+-   Cookies relacionados a formulários
+    
     Quando você envia dados por meio de um formulário como os
     encontrados nas páginas de contacto ou nos formulários de
     comentários, os cookies podem ser configurados para lembrar os
-    detalhes do usuário para correspondência futura.\
-    \
--   Cookies de preferências do site\
-    \
+    detalhes do usuário para correspondência futura.
+    
+-   Cookies de preferências do site
+    
     Para proporcionar uma ótima experiência neste site, fornecemos a
     funcionalidade para definir suas preferências de como esse site é
     executado quando você o usa. Para lembrar suas preferências,
@@ -124,7 +124,7 @@ recomendável que você não desative os cookies.
     chamadas sempre que você interagir com uma página for afetada por
     suas preferências.
 
-### Cookies de Terceiros {#cookies-de-terceiros style="box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.2; font-size: 16px; letter-spacing: -0.05em; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+### Cookies de Terceiros
 
 Em alguns casos especiais, também usamos cookies fornecidos por
 terceiros confiáveis. A seção a seguir detalha quais cookies de
@@ -159,7 +159,7 @@ página oficial do Google Analytics.
     nossos custos de publicidade e produtos para garantir o melhor preço
     possível.
 
-### Compromisso do Usuário {#compromisso-do-usuário style="box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.2; font-size: 16px; letter-spacing: -0.05em; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+### Compromisso do Usuário
 
 O usuário se compromete a fazer uso adequado dos conteúdos e da
 informação que o Bandeco Unicamp oferece no site e com caráter
@@ -177,7 +177,7 @@ enunciativo, mas não limitativo:
     sistemas de hardware ou software que sejam capazes de causar danos
     anteriormente mencionados.
 
-### Mais informações {#mais-informações style="box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.2; font-size: 16px; letter-spacing: -0.05em; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+### Mais informações
 
 Esperemos que esteja esclarecido e, como mencionado anteriormente, se
 houver algo que você não tem certeza se precisa ou não, geralmente é
