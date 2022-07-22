@@ -1,0 +1,102 @@
+[1. Termos]{style="color: #576d96;"} {#termos style="box-sizing: border-box; margin: 0px; line-height: 1.2; font-size: 20px; letter-spacing: -0.05em; color: #576d96; padding-bottom: 20px; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+------------------------------------
+
+[Ao acessar ao site [Bandeco
+Unicamp](https://www.instagram.com/bandecounicamp), concorda em cumprir
+estes termos de serviço, todas as leis e regulamentos aplicáveis ​​e
+concorda que é responsável pelo cumprimento de todas as leis locais
+aplicáveis. Se você não concordar com algum desses termos, está proibido
+de usar ou acessar este site. Os materiais contidos neste site são
+protegidos pelas leis de direitos autorais e marcas comerciais
+aplicáveis.]{style="color: #576d96;"}
+
+[2. Uso de Licença]{style="color: #576d96;"} {#uso-de-licença style="box-sizing: border-box; margin: 0px; line-height: 1.2; font-size: 20px; letter-spacing: -0.05em; color: #576d96; padding-bottom: 20px; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+--------------------------------------------
+
+[É concedida permissão para baixar temporariamente uma cópia dos
+materiais (informações ou software) no site Bandeco Unicamp , apenas
+para visualização transitória pessoal e não comercial. Esta é a
+concessão de uma licença, não uma transferência de título e, sob esta
+licença, você não pode: ]{style="color: #576d96;"}
+
+1.  [modificar ou copiar os materiais; ]{style="color: #576d96;"}
+2.  [usar os materiais para qualquer finalidade comercial ou para
+    exibição pública (comercial ou não
+    comercial); ]{style="color: #576d96;"}
+3.  [tentar descompilar ou fazer engenharia reversa de qualquer software
+    contido no site Bandeco Unicamp; ]{style="color: #576d96;"}
+4.  [remover quaisquer direitos autorais ou outras notações de
+    propriedade dos materiais; ou ]{style="color: #576d96;"}
+5.  [transferir os materiais para outra pessoa ou \'espelhe\' os
+    materiais em qualquer outro servidor.]{style="color: #576d96;"}
+
+[Esta licença será automaticamente rescindida se você violar alguma
+dessas restrições e poderá ser rescindida por Bandeco Unicamp a qualquer
+momento. Ao encerrar a visualização desses materiais ou após o término
+desta licença, você deve apagar todos os materiais baixados em sua
+posse, seja em formato eletrónico ou impresso.]{style="color: #576d96;"}
+
+[3. Isenção de responsabilidade]{style="color: #576d96;"} {#isenção-de-responsabilidade style="box-sizing: border-box; margin: 0px; line-height: 1.2; font-size: 20px; letter-spacing: -0.05em; color: #576d96; padding-bottom: 20px; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+---------------------------------------------------------
+
+1.  [Os materiais no site da Bandeco Unicamp são fornecidos \'como
+    estão\'. Bandeco Unicamp não oferece garantias, expressas ou
+    implícitas, e, por este meio, isenta e nega todas as outras
+    garantias, incluindo, sem limitação, garantias implícitas ou
+    condições de comercialização, adequação a um fim específico ou não
+    violação de propriedade intelectual ou outra violação de
+    direitos.]{style="color: #576d96;"}
+2.  [Além disso, o Bandeco Unicamp não garante ou faz qualquer
+    representação relativa à precisão, aos resultados prováveis ​​ou à
+    confiabilidade do uso dos materiais em seu site ou de outra forma
+    relacionado a esses materiais ou em sites vinculados a este
+    site.]{style="color: #576d96;"}
+
+[4. Limitações]{style="color: #576d96;"} {#limitações style="box-sizing: border-box; margin: 0px; line-height: 1.2; font-size: 20px; letter-spacing: -0.05em; color: #576d96; padding-bottom: 20px; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+----------------------------------------
+
+[Em nenhum caso o Bandeco Unicamp ou seus fornecedores serão
+responsáveis ​​por quaisquer danos (incluindo, sem limitação, danos por
+perda de dados ou lucro ou devido a interrupção dos negócios)
+decorrentes do uso ou da incapacidade de usar os materiais em Bandeco
+Unicamp, mesmo que Bandeco Unicamp ou um representante autorizado da
+Bandeco Unicamp tenha sido notificado oralmente ou por escrito da
+possibilidade de tais danos. Como algumas jurisdições não permitem
+limitações em garantias implícitas, ou limitações de responsabilidade
+por danos conseqüentes ou incidentais, essas limitações podem não se
+aplicar a você.]{style="color: #576d96;"}
+
+[5. Precisão dos materiais]{style="color: #576d96;"} {#precisão-dos-materiais style="box-sizing: border-box; margin: 0px; line-height: 1.2; font-size: 20px; letter-spacing: -0.05em; color: #576d96; padding-bottom: 20px; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+----------------------------------------------------
+
+[Os materiais exibidos no site da Bandeco Unicamp podem incluir erros
+técnicos, tipográficos ou fotográficos. Bandeco Unicamp não garante que
+qualquer material em seu site seja preciso, completo ou atual. Bandeco
+Unicamp pode fazer alterações nos materiais contidos em seu site a
+qualquer momento, sem aviso prévio. No entanto, Bandeco Unicamp não se
+compromete a atualizar os materiais.]{style="color: #576d96;"}
+
+[6. Links]{style="color: #576d96;"} {#links style="box-sizing: border-box; margin: 0px; line-height: 1.2; font-size: 20px; letter-spacing: -0.05em; color: #576d96; padding-bottom: 20px; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+-----------------------------------
+
+[O Bandeco Unicamp não analisou todos os sites vinculados ao seu site e
+não é responsável pelo conteúdo de nenhum site vinculado. A inclusão de
+qualquer link não implica endosso por Bandeco Unicamp do site. O uso de
+qualquer site vinculado é por conta e risco do
+usuário.]{style="color: #576d96;"}
+
+ 
+
+### [Modificações]{style="color: #576d96;"} {#modificações style="box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.2; font-size: 16px; letter-spacing: -0.05em; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+
+[O Bandeco Unicamp pode revisar estes termos de serviço do site a
+qualquer momento, sem aviso prévio. Ao usar este site, você concorda em
+ficar vinculado à versão atual desses termos de
+serviço.]{style="color: #576d96;"}
+
+### [Lei aplicável]{style="color: #576d96;"} {#lei-aplicável style="box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.2; font-size: 16px; letter-spacing: -0.05em; color: #576d96; font-family: Montserrat, sans-serif; background-color: #ffffff;"}
+
+[Estes termos e condições são regidos e interpretados de acordo com as
+leis do Bandeco Unicamp e você se submete irrevogavelmente à jurisdição
+exclusiva dos tribunais naquele estado ou
+localidade.]{style="color: #576d96;"}
